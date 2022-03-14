@@ -1,4 +1,7 @@
 # Programming-Quiz-11
+Course: Computer Science 140 - C++ 2
+
+Name: Programming Quiz 11
 
 Write a program that scores the following data about a soccer player in a structure:
 
